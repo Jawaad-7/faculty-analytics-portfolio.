@@ -15,7 +15,7 @@ The institution needed a reliable way to track student enrollment, demographics,
 I wrote complex SQL queries to extract and validate data from the Oracle database and built this interactive Power BI dashboard. The dashboard allows users to filter by Faculty and Year to view real time metrics.
 
 ## Dashboard Preview
-![Faculty Analytics Dashboard](faculty_dashboard.png.png)
+![Faculty Analytics Dashboard](faculty_dashboard.png)
 
 ## Key Insights Tracked
 *   Total Student Enrollment and NSFAS student ratios.
